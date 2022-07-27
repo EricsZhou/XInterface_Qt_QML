@@ -1,0 +1,14 @@
+﻿  Spout.cpp
+  SpoutCopy.cpp
+  SpoutDirectX.cpp
+  SpoutFrameCount.cpp
+  SpoutGL.cpp
+  SpoutGLextensions.cpp
+  SpoutReceiver.cpp
+  SpoutSender.cpp
+  SpoutSenderNames.cpp
+  SpoutSharedMemory.cpp
+  SpoutUtils.cpp
+  正在生成代码...
+    正在创建库 D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Debug\Spout.lib 和对象 D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Debug\Spout.exp
+  SpoutSDK.vcxproj -> D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Debug\Spout.dll

@@ -1,0 +1,24 @@
+﻿  Spout.cpp
+  SpoutCopy.cpp
+  SpoutDirectX.cpp
+  SpoutFrameCount.cpp
+  SpoutGL.cpp
+  SpoutGLextensions.cpp
+  SpoutReceiver.cpp
+  SpoutSender.cpp
+  SpoutSenderNames.cpp
+  SpoutSharedMemory.cpp
+  SpoutUtils.cpp
+    正在创建库 D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Release\Spout.lib 和对象 D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Release\Spout.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1217 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SpoutSDK.vcxproj -> D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Release\Spout.dll
+  系统找不到指定的路径。
+  已复制         0 个文件。
+  系统找不到指定的路径。
+  已复制         0 个文件。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: 命令“copy /y /v D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Release\Spout.dll "..\Binaries\x64\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: copy /y /v D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Release\Spout.lib "..\Binaries\x64\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd”已退出，代码为 1。

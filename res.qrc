@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/MainPanelForm.qml</file>
+        <file>qml/CameraWidget.qml</file>
+        <file>qml/ScreenWidget.qml</file>
+        <file>qml/CameraMotionButton.qml</file>
+        <file>qml/ItemWidget.qml</file>
+        <file>qml/MyScrollBar.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/CameraButton.qml</file>
+        <file>qml/AutoMotionWidget.qml</file>
+        <file>qml/MusicSwitchForm.qml</file>
+        <file>qml/ImageEffectsWidget.qml</file>
+        <file>qml/FwButton.qml</file>
+        <file>qml/ChangeScen.qml</file>
+        <file>qml/ScenceWidget.qml</file>
+        <file>qml/Myslider.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Resource/button.png</file>
+        <file>Resource/Line 1.png</file>
+        <file>Resource/Rectangle 366.png</file>
+        <file>Resource/Vector.png</file>
+        <file>Resource/111.png</file>
+    </qresource>
+</RCC>
